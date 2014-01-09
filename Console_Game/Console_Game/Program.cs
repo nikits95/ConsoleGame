@@ -11,6 +11,7 @@ namespace Console_Game
         static void Main(string[] args)
         {
             //Test comming by MapTo0
+            //test from Niki
         }
     }
 }
